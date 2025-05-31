@@ -1,6 +1,6 @@
 # 📱 Pokédex - Aula 4
 
-Leonardo dos Reis /souza - GU3027287
+Leonardo dos Reis Souza - GU3027287
 
 ---
 
